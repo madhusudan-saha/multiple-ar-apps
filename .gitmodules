@@ -1,0 +1,6 @@
+[submodule "MultipleARAppsMetaApp"]
+	path = MultipleARAppsMetaApp
+	url = https://github.com/madhusudan-saha/multiple-ar-apps-meta-app.git
+[submodule "PottedPlantPlugin"]
+	path = PottedPlantPlugin
+	url = https://github.com/madhusudan-saha/multiple-ar-apps-potted-plant-plugin.git
