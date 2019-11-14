@@ -4,3 +4,6 @@
 [submodule "PottedPlantPlugin"]
 	path = PottedPlantPlugin
 	url = https://github.com/madhusudan-saha/multiple-ar-apps-potted-plant-plugin.git
+[submodule "AugmentedImagePlugin"]
+	path = AugmentedImagePlugin
+	url = https://github.com/madhusudan-saha/multiple-ar-apps-augmented-image-plugin.git
