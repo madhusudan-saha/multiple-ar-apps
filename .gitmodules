@@ -7,3 +7,6 @@
 [submodule "RoomPlannerPlugin"]
 	path = RoomPlannerPlugin
 	url = https://github.com/madhusudan-saha/multiple-ar-apps-room-planner-plugin.git
+[submodule "BookReviewPlugin"]
+	path = BookReviewPlugin
+	url = https://github.com/Partiks/parth_book_review_plugin.git
