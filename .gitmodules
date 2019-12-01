@@ -10,3 +10,6 @@
 [submodule "BookReviewPlugin"]
 	path = BookReviewPlugin
 	url = https://github.com/Partiks/parth_book_review_plugin.git
+[submodule "ProductDemoPlugin"]
+	path = ProductDemoPlugin
+	url = https://github.com/madhusudan-saha/multiple-ar-apps-product-demo-plugin.git
