@@ -1,9 +1,6 @@
 [submodule "MultipleARAppsMetaApp"]
 	path = MultipleARAppsMetaApp
 	url = https://github.com/madhusudan-saha/multiple-ar-apps-meta-app.git
-[submodule "AugmentedImagePlugin"]
-	path = AugmentedImagePlugin
-	url = https://github.com/madhusudan-saha/multiple-ar-apps-augmented-image-plugin.git
 [submodule "RoomPlannerPlugin"]
 	path = RoomPlannerPlugin
 	url = https://github.com/madhusudan-saha/multiple-ar-apps-room-planner-plugin.git
@@ -13,3 +10,6 @@
 [submodule "ProductDemoPlugin"]
 	path = ProductDemoPlugin
 	url = https://github.com/madhusudan-saha/multiple-ar-apps-product-demo-plugin.git
+[submodule "SignBoardPlugin"]
+	path = SignBoardPlugin
+	url = https://github.com/SlackCrow/arsignboardplugin.git
